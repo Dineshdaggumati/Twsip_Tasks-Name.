@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <div class="navbar">
+        <div class="navbarleft">
+            <h1 class="h">Ice bar</h1>
+        </div>
+        <div class="navbarright">
+            <a class="aele">Home</a>
+            <a class="aele">About</a>
+            <a class="aele" >Menu</a>
+            <a class="aele">Contact</a>
+        </div>
+
+    </div>   
+    <div class="home">
+        <div class="homeleft">
+            <h1 class="heading">Ice cream</h1>
+            <h3 class="h2">Welcome to a World of Delightful Frozen Indulgence!</h3>
+               <p> Indulge your senses and embark on a journey of pure bliss with our exquisite range of ice creams. At <b class="h4">Ice bar</b>, we believe in creating moments of joy and sweet memories, one scoop at a time.
+            </p>
+            <p>Step into our parlors and experience the joy of premium ice cream. With a warm ambiance and friendly staff, we're here to make your visit a memorable one. Check our locations page to find the nearest parlour.</p>
+            <button class="button">Get started</button>
+        </div>
+        <div class="homeright">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Ix_9VG5csi8r0VydPPgAdEPx-pDphotURKdgDckgIt9u9XxXVwQqkB9sw9mp9uC5kF4&usqp=CAU" alt="image">    
+
+        </div>
+    </div>
+</body>
+</html>
